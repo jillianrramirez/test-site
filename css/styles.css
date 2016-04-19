@@ -1,0 +1,60 @@
+/*
+Project: Test-Site, The Chicken or The Egg(plant)
+Description: This is our personal site project. It will be posted on Github using gh-pages.
+Color Theme:
+  - Primary Color: 
+  - Secondary Color: 
+  - Complement Color: 
+  - Base Color: 
+*/
+
+/*===== Header Styles =====*/
+
+h1 {
+  margin-left: 30%;
+  color: #000;
+  font-family: 'Poiret One', cursive;
+  font-weight: 400;
+}
+
+
+
+
+
+/*===== Footer Styles =====*/
+#footer {
+  height: 150px;
+  width: 100%;
+  background-color: #171526;
+  padding-top: 50px;
+}
+
+#footer h6 {
+  color: #fff;
+  text-align: center;
+}
+
+.contact {
+  width: 152px;
+  height: 100px;
+  margin-left: 43%;
+
+}
+
+.contact-icons {
+  text-align: center;
+  height: 50px;
+  width: 50px;
+  background-color: #8C9188;
+  margin: 0px auto;
+  border: 2px solid #5A4A53;
+  border-radius: 100%;
+  float: left;
+
+}
+
+.contact-icons i {
+  color: #fff;
+  font-size: 2em;
+  padding-top: 9px;
+}
